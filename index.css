@@ -3,10 +3,7 @@ body {
     text-align: left;
     background-color: #2292E4;
 }
-#nav-1:hover,
-#nav-2:hover,
-#nav-3:hover,
-#nav-4:hover  {
+#nav-1:hover {
     color: black;
     background: #03e9f4;
 }
